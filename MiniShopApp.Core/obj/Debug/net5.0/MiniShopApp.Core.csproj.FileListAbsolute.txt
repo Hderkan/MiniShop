@@ -1,0 +1,12 @@
+C:\Users\MONSTER\Desktop\Web_6_Projects\Week_14\MiniShopApp\MiniShopApp.Core\bin\Debug\net5.0\MiniShopApp.Core.deps.json
+C:\Users\MONSTER\Desktop\Web_6_Projects\Week_14\MiniShopApp\MiniShopApp.Core\bin\Debug\net5.0\MiniShopApp.Core.dll
+C:\Users\MONSTER\Desktop\Web_6_Projects\Week_14\MiniShopApp\MiniShopApp.Core\bin\Debug\net5.0\ref\MiniShopApp.Core.dll
+C:\Users\MONSTER\Desktop\Web_6_Projects\Week_14\MiniShopApp\MiniShopApp.Core\bin\Debug\net5.0\MiniShopApp.Core.pdb
+C:\Users\MONSTER\Desktop\Web_6_Projects\Week_14\MiniShopApp\MiniShopApp.Core\obj\Debug\net5.0\MiniShopApp.Core.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\Web_6_Projects\Week_14\MiniShopApp\MiniShopApp.Core\obj\Debug\net5.0\MiniShopApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\Web_6_Projects\Week_14\MiniShopApp\MiniShopApp.Core\obj\Debug\net5.0\MiniShopApp.Core.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\Web_6_Projects\Week_14\MiniShopApp\MiniShopApp.Core\obj\Debug\net5.0\MiniShopApp.Core.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\Web_6_Projects\Week_14\MiniShopApp\MiniShopApp.Core\obj\Debug\net5.0\MiniShopApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Web_6_Projects\Week_14\MiniShopApp\MiniShopApp.Core\obj\Debug\net5.0\MiniShopApp.Core.dll
+C:\Users\MONSTER\Desktop\Web_6_Projects\Week_14\MiniShopApp\MiniShopApp.Core\obj\Debug\net5.0\ref\MiniShopApp.Core.dll
+C:\Users\MONSTER\Desktop\Web_6_Projects\Week_14\MiniShopApp\MiniShopApp.Core\obj\Debug\net5.0\MiniShopApp.Core.pdb
